@@ -1,0 +1,19 @@
+.details-page img {
+  border-radius: 20px;
+}
+
+.details-page h6 {
+  color: #252831;
+}
+.details-page h4 {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background: #ebebeb;
+  padding: 10px;
+  margin-bottom: 35px;
+}
+
+.show-tabs a {
+  padding: 10px;
+}

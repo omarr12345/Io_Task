@@ -1,0 +1,22 @@
+.header {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .logo img {
+  height: 65px;
+}
+
+@media (max-width: 992px) {
+  .header {
+    padding: 10px 0;
+  }
+  .header .logo img {
+    height: 20px;
+  }
+
+  .header .profile {
+    display: none;
+  }
+}
